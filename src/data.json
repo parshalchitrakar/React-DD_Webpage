@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Sample Card Title 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "imageUrl": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 2,
+      "title": "Sample Card Title 2",
+      "description": "Integer vitae accumsan ipsum. Sed luctus aliquam sem, sit amet vestibulum lacus ultrices non.",
+      "imageUrl": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 3,
+      "title": "Sample Card Title 3",
+      "description": "Phasellus ultricies diam eget arcu interdum, nec congue ex volutpat. Nullam dignissim, velit id congue suscipit.",
+      "imageUrl": "https://via.placeholder.com/300"
+    },
+    {
+      "id": 4,
+      "title": "Sample Card Title 4",
+      "description": "Vestibulum consectetur nisi et mi placerat efficitur. Nulla sit amet ex odio.",
+      "imageUrl": "https://via.placeholder.com/300"
+    },
+    {
+        "id": 5,
+        "title": "Sample Card Title 3",
+        "description": "Phasellus ultricies diam eget arcu interdum, nec congue ex volutpat. Nullam dignissim, velit id congue suscipit.",
+        "imageUrl": "https://via.placeholder.com/300"
+      },
+      {
+        "id": 6,
+        "title": "Sample Card Title 4",
+        "description": "Vestibulum consectetur nisi et mi placerat efficitur. Nulla sit amet ex odio.",
+        "imageUrl": "https://via.placeholder.com/300"
+      }
+  ]
+  
